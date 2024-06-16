@@ -187,5 +187,3 @@ Para rodar esta API localmente, siga os passos abaixo:
 ```
 
 4. Faça o deploy.
-
-# pokedex-docker
